@@ -12,3 +12,4 @@ D:\subject's note\net centric\program\obj\Debug\net9.0\refint\program.dll
 D:\subject's note\net centric\program\obj\Debug\net9.0\program.pdb
 D:\subject's note\net centric\program\obj\Debug\net9.0\program.genruntimeconfig.cache
 D:\subject's note\net centric\program\obj\Debug\net9.0\ref\program.dll
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.sourcelink.json
