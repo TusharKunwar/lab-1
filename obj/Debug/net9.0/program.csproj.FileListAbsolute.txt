@@ -1,0 +1,14 @@
+D:\subject's note\net centric\program\bin\Debug\net9.0\program.exe
+D:\subject's note\net centric\program\bin\Debug\net9.0\program.deps.json
+D:\subject's note\net centric\program\bin\Debug\net9.0\program.runtimeconfig.json
+D:\subject's note\net centric\program\bin\Debug\net9.0\program.dll
+D:\subject's note\net centric\program\bin\Debug\net9.0\program.pdb
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.AssemblyInfoInputs.cache
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.AssemblyInfo.cs
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.csproj.CoreCompileInputs.cache
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.dll
+D:\subject's note\net centric\program\obj\Debug\net9.0\refint\program.dll
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.pdb
+D:\subject's note\net centric\program\obj\Debug\net9.0\program.genruntimeconfig.cache
+D:\subject's note\net centric\program\obj\Debug\net9.0\ref\program.dll
